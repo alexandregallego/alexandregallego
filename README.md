@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre Gallego</h1>
+<h1 align="center">Hi there, I´m Alex!👋</h1>
 <h3 align="center">A passionate data scientist from Vigo</h3>
 
 - 🔭 I’m currently working on **TDSynnex**
